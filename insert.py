@@ -22,3 +22,4 @@ print(f"{cursor.rowcount}개의 행이 변경 되었습니다.")
 
 cursor.close()
 connection.close()
+
